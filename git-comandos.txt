@@ -1,0 +1,23 @@
+					git
+-Historial
+-Almacenar código
+-Trabajar en equipo
+-Cuando se introdujo un error
+
+ // usar git bash no cmd
+
+-git config --global -e //archivo de configuracion
+-git config --global user.name "jrdev1707"
+-git config --global user.email jrdev1707@gmail.com
+-git config --global core.editor "code --wait"
+-git config --global core.autocrlf true // true for win, input for mac
+-git config -h
+
+ // Comandos en git
+
+cd
+cd ..
+ls
+pwd
+
+	
